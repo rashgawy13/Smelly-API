@@ -10,7 +10,7 @@ export const VERSION = "2.0.0";
  *
  * @link https://www.uuidgenerator.net/
  */
-export const STAFF_TAG = "bd2b2da8-2811-4fb0-8bbd-b544dd01c2ff";
+export const STAFF_TAG = "cb07fd13-707a-4278-bd64-013decb36a13";
 
 /**
  * This is the appeal link that shows when someone igets banned
